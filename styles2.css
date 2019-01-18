@@ -1,0 +1,34 @@
+/* I'm going to make the H1 red */
+
+body{
+    background-color: green;
+}
+h1 {
+    color: gold;
+    font-size: 90px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#one {
+    color: purple;
+    text-align: center;
+}
+#two {
+    color: green
+}
+p {
+    color: pink;
+}
+#matrix {
+    width: 500px;
+}
+#work {
+    width: 300px;
+}
+.tacos {
+    color: indigo;
+}
+.control {
+       text-align: center;
+}
