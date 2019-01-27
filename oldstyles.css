@@ -1,0 +1,33 @@
+body { 
+    font-family: 'PT Serif', serif;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+.nav-link {
+    font-size: 15px;
+}
+a.navbar-brand img {
+    width: 60px;
+}
+.col-sm-6 img{
+    width: 650px;
+}
+h5 {
+    font-size: 100px;
+}
+.jumbotron {
+    background-image: url(portada.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    padding-top: 400px;
+}
+.display-4{
+    color: white;
+    font-size: 100px;
+}
+.lead{
+    color: white;
+    font-size: 40px;
+}

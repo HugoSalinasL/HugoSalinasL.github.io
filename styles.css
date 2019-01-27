@@ -1,45 +1,50 @@
-/* I'm going to make the H1 red */
-
-body{
-    background-color: green;
+body { 
+    font-family: 'Noto Serif SC', serif;
+    padding-right: 45px;
+    padding-left: 45px;
 }
-h1 {
-    color: gold;
-    font-size: 110px;
-    text-align: center;
-    text-decoration: underline;
+.nav-link {
+    font-size: 15px;
 }
+a.navbar-brand img {
+    width: 60px;
+}
+.carousel-inner {
+    height: 550px;
+    }
 h2 {
-    color: blue;
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
-
-#one {
-    color: purple;
+img {
+    width: 100%;
+}
+.jumbotron {
+    background-image: url(concrete.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-top: 100px;
+}
+h1.display-4 {
+    color: white;
     text-align: center;
 }
-#two {
-    color: green
-}
-p {
-    color: pink;
-}
-#matrix {
-    width: 500px;
-}
-#work {
-    width: 300px;
-}
-.tacos {
-    color: indigo;
-}
-.control {
-       text-align: center;
-}
-.about {
+p.lead {
+    color: white;
     text-align: center;
 }
-.center {
-    text-align: center;
-}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+.map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
