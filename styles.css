@@ -41,6 +41,9 @@ h1.display-4 {
 p.lead {
     color: white;
     text-align: center;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .jumbo1 {
     color: black;
