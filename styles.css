@@ -19,7 +19,14 @@ h2 {
 img {
     width: 100%;
 }
-.jumbotron {
+.container-jumbo1 {
+    background-image: url(edificios.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+.container-jumbo2 {
     background-image: url(concrete.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,6 +40,11 @@ h1.display-4 {
 }
 p.lead {
     color: white;
+    text-align: center;
+}
+.jumbo1 {
+    color: black;
+    font-size: 60px;
     text-align: center;
 }
 .map-container{
