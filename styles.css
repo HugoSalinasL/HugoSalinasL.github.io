@@ -1,7 +1,7 @@
 body { 
     font-family: 'Noto Serif SC', serif;
-    padding-right: 45px;
-    padding-left: 45px;
+    padding-right: 55px;
+    padding-left: 55px;
 }
 .nav-link {
     font-size: 15px;
@@ -63,3 +63,9 @@ p.lead {
     width:100%;
     position:absolute;
     }
+.rowfp{
+    height: 900px;
+}
+.row2{
+    text-align: center;
+}
